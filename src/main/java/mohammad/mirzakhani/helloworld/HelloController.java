@@ -1,4 +1,4 @@
-package ir.whatsoft.demo;
+package mohammad.mirzakhani.helloworld;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

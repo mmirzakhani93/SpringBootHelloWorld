@@ -1,4 +1,4 @@
-package ir.whatsoft.demo;
+package mohammad.mirzakhani.helloworld;
 
 public class HelloContent {
 

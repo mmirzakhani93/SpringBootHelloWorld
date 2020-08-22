@@ -8,11 +8,11 @@
 		<version>2.3.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ir.whatsoft</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>mohammad.mirzakhani</groupId>
+	<artifactId>helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>helloworld</name>
+	<description>Spring Boot HelloWorld Project</description>
 
 	<properties>
 		<java.version>1.8</java.version>
